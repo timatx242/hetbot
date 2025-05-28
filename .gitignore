@@ -1,0 +1,23 @@
+# Ignore environment files
+.env
+bot/.env
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+*.db
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Bytecode
+*.pyc
